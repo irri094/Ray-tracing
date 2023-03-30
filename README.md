@@ -17,7 +17,7 @@ take capture with 0.  </br>
 * Triangle
 * Sphere
 * General Quadric Surfaces
-* Floor
+* Floor </br>
 Each shape has ambient, diffuse, specular, reflection coefficients and an RGB color
 
 #### Lights 
