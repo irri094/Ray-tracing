@@ -1,6 +1,6 @@
 # Ray-tracing
 
-Multi-level reflection using ray tracing. <\br>
+Multi-level reflection using ray tracing. </br>
 Lighting by phong model.
 
 ### Requirements:
