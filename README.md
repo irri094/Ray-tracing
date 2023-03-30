@@ -3,6 +3,9 @@
 Multi-level reflection using ray tracing. </br>
 Lighting by phong model.
 
+![example](https://github.com/irri094/Ray-tracing/blob/main/examples/output_11.bmp?raw=true)
+![example](https://github.com/irri094/Ray-tracing/blob/main/examples/rec5.bmp?raw=true)
+
 ### Requirements:
 - freeglut3-dev
 - g++
