@@ -13,13 +13,13 @@ navigate with arrows, [1,6] and PageUp, PageDown.  </br>
 take capture with 0.  </br>
 
 ### Scene:
-# Shapes 
+#### Shapes 
 * Triangle
 * Sphere
 * General Quadric Surfaces
 * Floor
 Each shape has ambient, diffuse, specular, reflection coefficients and an RGB color
 
-# Lights 
+#### Lights 
 * Point Light
 * Spot Light
